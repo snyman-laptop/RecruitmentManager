@@ -1,17 +1,1 @@
-RecruitmentManager/
-├── src/                      # Source code for the application
-│   ├── RecruitmentManager.Web/   # Web UI/ASP.NET Core MVC project
-│   ├── RecruitmentManager.API/   # Backend API project
-│   ├── RecruitmentManager.Services/ # Service layer for business logic
-│   ├── RecruitmentManager.Data/  # Entity Framework Core database models
-│   └── RecruitmentManager.Tests/ # Unit tests
-├── docs/                     # Documentation for installation and usage
-│   ├── README.md             # Project overview and instructions
-│   ├── API-Documentation.md  # API documentation
-│   ├── Installation.md       # Setup and deployment instructions
-│   └── MockInterview.md      # Detailed guide for the Mock Interview system
-├── assets/                   # Static files like images, logos, etc.
-├── .gitignore                # Git ignore file
-├── LICENSE                   # License information
-├── README.md                 # Main repository readme
-└── CONTRIBUTING.md           # Guidelines for contributing
+
